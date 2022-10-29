@@ -2,6 +2,7 @@
 Neuroelectrics, eeg, bci <> cbi, transcranial magnetic stimulation ...
 
 # Pulser Mark 5
+(http://pataphysics.to/specifications.html)
 48 Channel Bipolar 650 V Ultrasound Phased Array
 - Xilinx Spartan 6 FPGA phase controller (based on Papilio Pro development hardware)
 - Custom VHDL phase generation source code on FPGA
