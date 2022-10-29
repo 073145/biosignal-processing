@@ -1,5 +1,5 @@
 # Biohaxx - Neuromorphic
-Neuroelectrics, eeg, bci <> cbi, transcranial magnetic stimulation ...
+Neuroelectrics, eeg, bci <> cbi, transcranial magnetic stimulation. Enobio/Starstim ...
 
 # Pulser Mark 5
 (http://pataphysics.to/specifications.html) 
