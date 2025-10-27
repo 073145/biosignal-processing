@@ -1,5 +1,5 @@
-# Biohaxx - Neuromorphic
-Biometrics. Biosensors. Neuroelectrics, electroencephalogram (EEG), electrocardiogram (ECG), electromyogram (EMG) and electrooculogram (EOG), bci <> cbi. Advanced brain monitoring. Transcranial magnetic stimulation. Sleep Profiler. Enobio/Starstim ... 
+# biosignal-processing
+Biometrics. Biosensors. Neuroelectrics, Neuromorphic Engineering... Electroencephalogram (EEG), electrocardiogram (ECG), electromyogram (EMG) and electrooculogram (EOG), bci <> cbi. Advanced brain monitoring. Transcranial magnetic stimulation. Sleep Profiler. Enobio/Starstim ... Biohacks
 
 # Pulser Mark 5
 (http://pataphysics.to/specifications.html) 
